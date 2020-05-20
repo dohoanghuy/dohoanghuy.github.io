@@ -883,6 +883,14 @@ body {
     font-style: italic;
   }
 }
+@media print {
+  #header-post {
+    display: none;
+  }
+  #footer-post-container {
+    display: none;
+  }
+}
 #footer-post {
   position: fixed;
   right: 0;
