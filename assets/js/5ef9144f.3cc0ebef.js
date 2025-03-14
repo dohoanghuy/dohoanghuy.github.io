@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdohoanghuy_github_io_docusaurus=self.webpackChunkdohoanghuy_github_io_docusaurus||[]).push([[7201],{6394:t=>{t.exports=JSON.parse('{"label":"tdd","permalink":"/docs/tags/tdd","allTagsPath":"/docs/tags","count":1,"items":[{"id":"TDD/tdd","title":"Flow","description":"Create a doc page with rich content.","permalink":"/docs/TDD/tdd"}]}')}}]);
